@@ -1,3 +1,12 @@
 h1{
     color: blueviolet;
+    text-align: center;
+}
+
+.gittu{
+    
+        background-color: rgb(212, 71, 71);
+        font-size: 24px;
+        text-align: center;
+        border: 20px solid rgb(87, 28, 28);
 }
